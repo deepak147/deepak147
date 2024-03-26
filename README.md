@@ -11,7 +11,7 @@ I'm a Master's student at UMKC pursuing Computer Science, currently focusing on 
 - Languages: Python, R, SQL
 - Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch
-- Frameworks: Rest APIs, Groovy
+- Frameworks: Langchain, Rest APIs, Groovy
 - Tools: Git, Docker, Jupyter Notebook
 - Other: TableAu, Google Colab, MongoDB, GitLab, Docker, MS Excel
 
