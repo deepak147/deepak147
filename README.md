@@ -2,7 +2,7 @@
 
 I'm a Master's student at UMKC pursuing Computer Science, currently focusing on Data Science. I am looking  
 
-- 🌱 I’m currently learning Gen AI, RAGs and Deep Learning.
+- 🌱 I’m currently into Gen AI and Deep Learning.
 - 💼 I'm open to new opportunities and collaborations
 - 📫 How to reach me: [Deepak Ayyasamy](https://www.linkedin.com/in/deepak-ayyasamy/)
 
